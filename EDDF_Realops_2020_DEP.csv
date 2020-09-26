@@ -1,5 +1,5 @@
 "user_id","eobt","eldt","departure_airport","arrival_airport","route","remarks","callsign","aircraft","registration","departure_stand","arrival_stand","departure_rwy","arrival_rwy"
-,"2020-10-10 14:00","2020-10-10 14:56","EDDF","EDDH",,,"DLH4EF","A321","DAIDI",,,,
+,"2020-10-10 14:00","2020-10-10 14:56","EDDF","EDDH",MARUN Y150 TOLGI DCT DLE P605 NOLGO,,"DLH4EF","A321","DAIDI",,,,
 ,"2020-10-10 14:00","2020-10-10 15:57","EDDF","LEPA",,,"RYR8ZK","B738","EIDYX",,,,
 ,"2020-10-10 14:00","2020-10-10 15:49","EDDF","LIRN",,,"DLH7LK","A320","DAIWH",,,,
 ,"2020-10-10 14:05","2020-10-10 15:24","EDDF","LIRQ",,,"DLH3XC","E190","DAECE",,,,
