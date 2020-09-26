@@ -1,3 +1,4 @@
+from csv import writer
 import requests
 from bs4 import BeautifulSoup
 import csv
@@ -21,8 +22,10 @@ if args.file == None:
     print("File not specified.")
     exit()
 
-with open(args.file) as csvfile:
+with open(args.file) as csvfile, open(f"1_{args.file}", 'w') as w:
     flights = csv.reader(csvfile, delimiter=',')
+
+    results = csv.writer(w, delimiter=',')
 
     for flight in flights:
         page = requests.get(f"{format_url(flight[DEP], flight[ARR])}")
@@ -32,7 +35,9 @@ with open(args.file) as csvfile:
 
         if route:
             flight[ROUTE] = route.get_text()
+            results.writerow(flight)
             print(f"Added route for {flight[CALLSIGN]}")
 
         else:
+            results.writerow(flight)
             print("Not Found")
