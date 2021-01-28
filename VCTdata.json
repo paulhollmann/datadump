@@ -1,0 +1,1467 @@
+{
+  "EDDB": {
+    "VCT": {
+      
+    },
+    "GERGA": {
+      "general": {
+        "initclimb": 5000,
+        "etype": [
+          "J"
+        ]
+      },
+      "1C": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1M": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1D": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1Z": [
+        {
+          "initclimb": 4000
+        }
+      ]
+    },
+    "ARSAP": {
+      "general": {
+        "initclimb": 5000,
+        "etype": [
+          "J"
+        ]
+      },
+      "1C": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1M": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1D": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1Z": [
+        {
+          "initclimb": 4000
+        }
+      ]
+    },
+    "LUROS": {
+      "general": {
+        "initclimb": 5000,
+        "etype": [
+          "J"
+        ]
+      },
+      "1C": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1M": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1D": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1Z": [
+        {
+          "initclimb": 4000
+        }
+      ]
+    },
+    "SOGMA": {
+      "general": {
+        "initclimb": 5000,
+        "etype": [
+          "J"
+        ]
+      },
+      "1C": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1D": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1K": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1J": [
+        {
+          "initclimb": 4000,
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1P": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1Y": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1Z": [
+        {
+          "initclimb": 4000,
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1Q": [
+        {
+          "initclimb": 8000
+        }
+      ],
+      "1R": [
+        {
+          "initclimb": 8000,
+          "etype": [
+            "P"
+          ]
+        }
+      ]
+    },
+    "HLZ": {
+      "general": {
+        "initclimb": 5000,
+        "etype": [
+          "J"
+        ]
+      },
+      "1C": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1D": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1K": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1J": [
+        {
+          "initclimb": 4000,
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1P": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1Y": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1Z": [
+        {
+          "initclimb": 4000,
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1Q": [
+        {
+          "initclimb": 8000
+        }
+      ],
+      "1R": [
+        {
+          "initclimb": 8000,
+          "etype": [
+            "P"
+          ]
+        }
+      ]
+    },
+    "POVEL": {
+      "general": {
+        "initclimb": 5000,
+        "etype": [
+          "J"
+        ]
+      },
+      "1C": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1D": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1K": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1J": [
+        {
+          "initclimb": 4000,
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1P": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1Y": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1Z": [
+        {
+          "initclimb": 4000,
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1Q": [
+        {
+          "initclimb": 8000
+        }
+      ],
+      "1R": [
+        {
+          "initclimb": 8000,
+          "etype": [
+            "P"
+          ]
+        }
+      ]
+    },
+    "MAXAN": {
+      "general": {
+        "initclimb": 5000,
+        "etype": [
+          "J"
+        ]
+      },
+      "1C": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1D": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1K": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1J": [
+        {
+          "initclimb": 4000,
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1Y": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1Z": [
+        {
+          "initclimb": 4000,
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1Q": [
+        {
+          "initclimb": 8000
+        }
+      ],
+      "1R": [
+        {
+          "initclimb": 8000,
+          "etype": [
+            "P"
+          ]
+        }
+      ]
+    },
+    "ODLUN": {
+      "general": {
+        "initclimb": 5000,
+        "etype": [
+          "J"
+        ]
+      },
+      "1C": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1D": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1K": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1J": [
+        {
+          "initclimb": 4000,
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1P": [
+        {
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1Y": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1Z": [
+        {
+          "initclimb": 4000,
+          "etype": [
+            "P"
+          ]
+        }
+      ],
+      "1Q": [
+        {
+          "initclimb": 8000
+        }
+      ],
+      "1R": [
+        {
+          "initclimb": 8000,
+          "etype": [
+            "P"
+          ]
+        }
+      ]
+    },
+    "ROKMU": {
+      "general": {
+        "initclimb": 4000,
+        "etype": [
+          "P"
+        ]
+      }
+    }
+  },
+  "EDDF": {
+    "general": {
+      "viasid": 1
+    },
+    "ANEKI": {
+      "general": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "9F": [
+        {
+          "initclimb": 5000
+        }
+      ],
+      "4E": [
+        {
+          "initclimb": 4000,
+          "wtc": [
+            "L",
+            "M"
+          ]
+        }
+      ],
+      "2D": [
+        {
+          "initclimb": 4000,
+          "wtc": [
+            "H",
+            "J"
+          ]
+        }
+      ]
+    },
+    "CINDY": {
+      "general": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1F": [
+        {
+          "initclimb": 5000
+        }
+      ]
+    },
+    "KOMIB": {
+      "general": [
+        {
+          "initclimb": 4000,
+          "destinations": [
+            "EDDN",
+            "ETHN",
+            "ETEP",
+            "ETIC"
+          ]
+        }
+      ]
+    },
+    "MARUN": {
+      "general": [
+        {
+          "initclimb": 5000,
+          "etype": [
+            "J"
+          ],
+          "wtc": [
+            "L",
+            "2M"
+          ]
+        }
+      ],
+      "6M": [
+        {
+          "initclimb": 7000
+        }
+      ],
+      "4H": [
+        {
+          "initclimb": 7000
+        }
+      ],
+      "2W": [
+        {
+          "initclimb": 7000
+        }
+      ],
+      "2K": [
+        {
+          "initclimb": 7000
+        }
+      ],
+      "7S": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "3R": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "9G": [
+        {
+          "initclimb": 5000
+        }
+      ],
+      "6F": [
+        {
+          "initclimb": 5000,
+          "wtc": [
+            "2H"
+          ]
+        }
+      ],
+      "9N": [
+        {
+          "initclimb": 5000
+        }
+      ],
+      "5E": [
+        {
+          "initclimb": 5000,
+          "wtc": [
+            "L",
+            "M"
+          ]
+        }
+      ],
+      "9D": [
+        {
+          "initclimb": 5000,
+          "wtc": [
+            "H",
+            "J"
+          ]
+        }
+      ],
+      "4T": [
+        {
+          "initclimb": 4000
+        }
+      ]
+    },
+    "OBOKA": {
+      "general": [
+        {
+          "initclimb": 5000
+        }
+      ],
+      "6M": [
+        {
+          "initclimb": 7000
+        }
+      ],
+      "4H": [
+        {
+          "initclimb": 7000
+        }
+      ],
+      "2W": [
+        {
+          "initclimb": 7000
+        }
+      ],
+      "2K": [
+        {
+          "initclimb": 7000
+        }
+      ],
+      "2S": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1L": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "2G": [
+        {
+          "wtc": [
+            "2H"
+          ]
+        }
+      ],
+      "1R": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "4N": [
+        {
+          "initclimb": 5000
+        }
+      ],
+      "1E": [
+        {
+          "initclimb": 5000,
+          "wtc": [
+            "L",
+            "M"
+          ]
+        }
+      ],
+      "1D": [
+        {
+          "initclimb": 5000,
+          "wtc": [
+            "H",
+            "J"
+          ]
+        }
+      ],
+      "1T": [
+        {
+          "initclimb": 4000
+        }
+      ]
+    },
+    "SOBRA": {
+      "5P": [
+        {
+          "initclimb": 5000,
+          "etype": [
+            "P",
+            "T"
+          ]
+        }
+      ],
+      "6F": [
+        {
+          "initclimb": 5000
+        }
+      ],
+      "7N": [
+        {
+          "initclimb": 5000
+        }
+      ],
+      "6E": [
+        {
+          "initclimb": 4000,
+          "wtc": [
+            "L",
+            "M"
+          ]
+        }
+      ],
+      "6D": [
+        {
+          "initclimb": 4000,
+          "wtc": [
+            "H",
+            "J"
+          ]
+        }
+      ],
+      "1U": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1X": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1Y": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1L": [
+        {
+          "initclimb": 4000
+        }
+      ]
+    },
+    "SULUS": {
+      "general": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "1F": [
+        {
+          "initclimb": 5000
+        }
+      ]
+    },
+    "TOBAK": {
+      "general": [
+        {
+          "initclimb": 5000
+        }
+      ],
+      "6M": [
+        {
+          "initclimb": 7000
+        }
+      ],
+      "4H": [
+        {
+          "initclimb": 7000
+        }
+      ],
+      "2W": [
+        {
+          "initclimb": 7000
+        }
+      ],
+      "2K": [
+        {
+          "initclimb": 7000
+        }
+      ],
+      "9S": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "3R": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "2N": [
+        {
+          "initclimb": 5000
+        }
+      ],
+      "7F": [
+        {
+          "initclimb": 5000
+        }
+      ],
+      "1G": [
+        {
+          "initclimb": 5000,
+          "wtc": [
+            "2H"
+          ]
+        }
+      ],
+      "1D": [
+        {
+          "initclimb": 5000
+        }
+      ],
+      "6T": [
+        {
+          "initclimb": 4000
+        }
+      ]
+    },
+    "ULKIG": {
+      "general": [
+        {
+          "initclimb": 4000
+        }
+      ]
+    },
+    "MTR": {
+      "general": [
+        {
+          "initclimb": 5000
+        }
+      ]
+    },
+    "TAI": {
+      "general": [
+        {
+          "initclimb": 5000
+        }
+      ]
+    },
+    "RID": {
+      "general": [
+        {
+          "initclimb": 4000
+        }
+      ],
+      "3Q": [
+        {
+          "initclimb": 5000
+        }
+      ]
+    }
+  },
+  "EDDH": {
+    "VCT": {
+      
+    },
+    "AMLUH": {
+      "general": [
+        {
+          "max_fl": 290,
+          "destinations": [
+            "EDDF",
+            "EDFH"
+          ]
+        }
+      ]
+    },
+    "BASUM": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "EKERN": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "IDEKO": {
+      "general": [
+        {
+          "destinations": [
+            "EDDK",
+            "EDDL",
+            "EDDG",
+            "EDLW",
+            "EDLN",
+            "EDLP",
+            "EDGS",
+            "EDLV"
+          ]
+        },
+        {
+          "max_fl": 230,
+          "destinations": [
+            "EDDF",
+            "EDFH"
+          ]
+        },
+        {
+          "max_fl": 100,
+          "destinations": [
+            "EDDV"
+          ]
+        }
+      ]
+    },
+    "LBV": {
+      "general": [
+        {
+          "airways": [
+            "L619",
+            "P992"
+          ]
+        }
+      ]
+    },
+    "LUB": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "RAMAR": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "WSN": {
+      "general": [
+        {
+          "direction": "EVEN",
+          "max_fl": 100,
+          "destinations": [
+            "EDDW"
+          ]
+        },
+        {
+          "direction": "EVEN"
+        }
+      ]
+    }
+  },
+  "EDDL": {
+    "VCT": {
+      
+    },
+    "COL": {
+      "general": [
+        {
+          "direction": "ODD"
+        }
+      ]
+    },
+    "DODEN": {
+      "general": [
+        {
+          "direction": "ODD",
+          "min_fl": 250
+        }
+      ]
+    },
+    "GMH": {
+      "general": [
+        {
+          "direction": "ODD",
+          "max_fl": 140
+        }
+      ]
+    },
+    "KUMIK": {
+      "general": [
+        {
+          "direction": "ODD",
+          "min_fl": 150
+        }
+      ]
+    },
+    "LMA": {
+      "general": [
+        {
+          "direction": "EVEN"
+        }
+      ]
+    },
+    "MEVEL": {
+      "general": [
+        {
+          "direction": "ODD"
+        }
+      ]
+    },
+    "MODRU": {
+      "general": [
+        {
+          "direction": "EVEN",
+          "min_fl": 210
+        }
+      ]
+    },
+    "NETEX": {
+      "general": [
+        {
+          "direction": "EVEN",
+          "min_fl": 100,
+          "max_fl": 200
+        }
+      ]
+    },
+    "NUDGO": {
+      "general": [
+        {
+          "direction": "ODD",
+          "max_fl": 245
+        }
+      ]
+    },
+    "NVO": {
+      "general": [
+        {
+          "direction": "EVEN",
+          "max_fl": 90
+        }
+      ]
+    },
+    "SONEB": {
+      "general": [
+        {
+          "direction": "EVEN",
+          "min_fl": 140
+        }
+      ]
+    }
+  },
+  "EDDP": {
+    "VCT": {
+      
+    },
+    "LELMA": {
+      "general": [
+        {
+          "direction": "ODD"
+        }
+      ]
+    },
+    "MAG": {
+      "general": [
+        {
+          "direction": "EVEN"
+        }
+      ]
+    },
+    "NAMUB": {
+      "general": [
+        {
+          "direction": "EVEN"
+        }
+      ]
+    },
+    "ODLUN": {
+      "general": [
+        {
+          "direction": "ODD"
+        }
+      ]
+    },
+    "ORTAG": {
+      "general": [
+        {
+          "direction": "ODD"
+        }
+      ]
+    },
+    "TORPU": {
+      "general": [
+        {
+          "direction": "ODD"
+        }
+      ]
+    },
+    "UMBAL": {
+      "general": [
+        {
+          "direction": "ODD"
+        }
+      ]
+    }
+  },
+  "EDDS": {
+    "general": {
+      "initclimb": 5000
+    },
+    "ABTAL": {
+      "4B": [
+        {
+          "viasid": 1
+        }
+      ]
+    },
+    "DKB": {
+      "general": [
+        {
+          "airways": [
+            "N869"
+          ]
+        },
+        {
+          "destinations": [
+            "EDDN",
+            "EDTY",
+            "EDQ"
+          ]
+        }
+      ],
+      "9B": [
+        {
+          "viasid": 1
+        }
+      ]
+    },
+    "ETASA": {
+      "general": [
+        {
+          "destinations": [
+            "EDDF",
+            "EDFE",
+            "EDFC",
+            "ETOU"
+          ]
+        }
+      ],
+      "4B": [
+        {
+          "viasid": 1
+        }
+      ]
+    },
+    "GEBNO": {
+      "general": [
+        {
+          "max_fl": 180,
+          "airways": [
+            "Z76"
+          ]
+        }
+      ],
+      "7B": [
+        {
+          "viasid": 1
+        }
+      ]
+    },
+    "KRH": {
+      "general": [
+        {
+          "max_fl": 80,
+          "destinations": [
+            "EDDR",
+            "EDRZ",
+            "EDSB",
+            "ETAR"
+          ]
+        }
+      ],
+      "5B": [
+        {
+          "viasid": 1
+        }
+      ]
+    },
+    "KUNOD": {
+      "general": [
+        {
+          "viasid": 1
+        }
+      ]
+    },
+    "OKIBA": {
+      "general": [
+        {
+          "min_fl": 200
+        }
+      ],
+      "4B": [
+        {
+          "viasid": 1
+        }
+      ]
+    },
+    "ROTWE": {
+      "general": [
+        {
+          "airways": [
+            "NATOR",
+            "TUBLO N850"
+          ]
+        }
+      ],
+      "7H": [
+        {
+          "viasid": 1
+        }
+      ]
+    },
+    "STG": {
+      "general": [
+        {
+          "destinations": [
+            "EDDS"
+          ]
+        }
+      ],
+      "1B": [
+        {
+          "viasid": 1
+        }
+      ]
+    },
+    "SUL": {
+      "general": [
+        {
+          "destinations": [
+            "EDNY",
+            "EDTL",
+            "LSZH",
+            "LSZR"
+          ]
+        }
+      ],
+      "3H": [
+        {
+          "viasid": 1
+        }
+      ]
+    },
+    "TAGIK": {
+      "general": [
+        {
+          "max_fl": 240,
+          "airways": [
+            "ABUMO",
+            "ASKIK"
+          ]
+        }
+      ],
+      "4B": [
+        {
+          "viasid": 1
+        }
+      ]
+    },
+    "TEDGO": {
+      "general": [
+        {
+          "destinations": [
+            "EDDS",
+            "ETHL"
+          ],
+          "viasid": 1
+        }
+      ]
+    },
+    "VESID": {
+      "4B": [
+        {
+          "viasid": 1
+        }
+      ]
+    }
+  },
+  "EDDV": {
+    "VCT": {
+      
+    },
+    "CEL": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "MULDO": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "NIE": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "POVEL": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "TOLTA": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "VAXEV": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "WERRA": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "WRB": {
+      "general": [
+        {
+          "airways": [
+            "T858",
+            "P12"
+          ]
+        },
+        {
+          
+        }
+      ]
+    }
+  },
+  "EDDW": {
+    "VCT": {
+      
+    },
+    "BASUM": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "EEL": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "ERLAD": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "GESTO": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "NIE": {
+      "general": [
+        {
+          "max_fl": 90,
+          "destinations": [
+            "EDDV",
+            "EDVE"
+          ]
+        }
+      ]
+    },
+    "WSN": {
+      "general": [
+        {
+          "max_fl": 90,
+          "destinations": [
+            "EDDH"
+          ]
+        },
+        {
+          
+        }
+      ]
+    }
+  },
+  "EDFH": {
+    "general": {
+      "initclimb": 5000
+    },
+    "ABSIX": {
+      "general": [
+        {
+          "airways": [
+            "Z100"
+          ]
+        }
+      ]
+    },
+    "GEBDA": {
+      "general": [
+        {
+          
+        }
+      ],
+      "5L": [
+        {
+          "initclimb": 6000
+        }
+      ]
+    },
+    "IDARO": {
+      "general": [
+        {
+          
+        }
+      ],
+      "4Y": [
+        {
+          "initclimb": 6000,
+          "destinations": [
+            "EDDR",
+            "EDRZ",
+            "EDSB"
+          ],
+          "airways": [
+            "Z818"
+          ]
+        }
+      ],
+      "9L": [
+        {
+          "initclimb": 6000
+        }
+      ]
+    },
+    "NVO": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "OLIVI": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "RUDOT": {
+      "general": [
+        {
+          
+        }
+      ]
+    },
+    "ULKIG": {
+      "general": [
+        {
+          
+        }
+      ]
+    }
+  },
+  "EDSB": {
+    "general": {
+      "initclimb": 7000
+    }
+  }
+}
